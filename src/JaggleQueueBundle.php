@@ -1,6 +1,6 @@
 <?php
 
-namespace Yeskn\QueueBundle;
+namespace Jaggle\QueueBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
